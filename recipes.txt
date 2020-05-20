@@ -1,4 +1,5 @@
 Welcome to the recipes
 
-soup
-pasta
+1) Soup
+2) Pasta
+3) Chicken Fry
